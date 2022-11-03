@@ -1,1 +1,27 @@
+#nav-link {
+    font-size: 20px;
+  }
+ 
+ @media only screen and (max-width: 1700px) {
+  body {
+        background-color: lightpink;
+      }
+  } 
+#image-a, #image-b, #image-c{
+  width: 450px;
+  height: 500px;
+}
 
+h1 {
+    font-size: 50;
+    text-align: center;
+  }
+
+p {
+    font-size: 35px;
+  }
+
+li {
+    font-size: 25px;
+  }
+  
